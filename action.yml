@@ -1,0 +1,5 @@
+name: stryker action
+description: running stryker dotnet on the solution
+runs:
+  using: docker
+  image: Dockerfile
