@@ -1,4 +1,4 @@
-name: stryker action
+name: stryker dotnet
 description: running stryker dotnet on the solution
 branding:
   icon: 'activity'  
